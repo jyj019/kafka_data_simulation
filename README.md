@@ -1,0 +1,2 @@
+# kafka_data_simulation
+模拟数据向Kafka发送的工具和demo合集
